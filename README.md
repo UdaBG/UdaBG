@@ -55,12 +55,15 @@ I'm a Full-Stack Developer and Software Engineering trainee with a passion for b
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdaBG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UdaBG&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="195" alt="languages graph" />
+  <img src="https://img.shields.io/badge/Total_Contributions-1,597-1A1B27?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=16161E" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Total_Commits-1,500+-1A1B27?style=for-the-badge&logo=git&logoColor=7aa2f7&labelColor=16161E" alt="Commits" />
+  <img src="https://img.shields.io/badge/Longest_Streak-64_Days-1A1B27?style=for-the-badge&logo=powershell&logoColor=7aa2f7&labelColor=16161E" alt="Streak" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaBG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UdaBG&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="195" alt="languages graph" />
 </div>
 
 ## 🐍 Contribution Snake
